@@ -14,5 +14,7 @@ description: "Dieses Buch befindet sich zur Zeit in Arbeit."
 
 # Vorwort {-}
 
-Dieses Buch befindet sich zur Zeit noch in Arbeit
+*Dieses Buch befindet sich zur Zeit noch in Arbeit.*
+
+Dieses Buch soll einen Überblick über Computer-basierte Methoden der Kommunikationswissenschaft verschaffen und in Form eine Lehrbuchs die wichtigsten Inhalte zusammenfassen. Zu allen Themen, die in diesem Buch bearbeitet werden, gibt es bereits geeignete Bücher, welche im Detail die Theorien, Methoden und Techniken detailliert betrachten. An geeigneter Stelle wird auf diese Quellen verwiesen.   
 
