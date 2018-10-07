@@ -1,0 +1,12 @@
+# Datenvisualisierung
+
+# Text-Mining
+
+# Social-Media Mining
+
+# Agenten-basierte Modellierung
+
+# Conjoint
+
+# Strukturgleichungsmodellierung
+

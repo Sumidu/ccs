@@ -1,5 +1,7 @@
 # Empirische Forschungsmethoden {#EmpirischeMethoden}
 
+## Was sind Methoden?
+
 ## Warum Methoden?
 
 ### Wissenschaftliche Fragen
@@ -7,6 +9,10 @@
 ### Biases und Verzerrung
 
 ## Qualitative vs. quantitative Methoden
+
+## Forschungsfrage und Faktorenraum
+
+## Empirie und Theorie
 
 ## Digitale Methoden der Erhebung
 
