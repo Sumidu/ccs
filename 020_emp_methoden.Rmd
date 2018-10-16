@@ -1,20 +1,18 @@
 # Empirische Forschungsmethoden {#EmpirischeMethoden}
 
-Versuchen Sie sich vorzustellen, was Sie in 5 Jahren beruflich tun werden. Sie haben Ihr Studium der Kommunikationswissenschaft schon eine ganze Weile hinter sich und haben Ihre ersten beruflichen Erfahrungen in ihrem Einstiegsjob gesammelt. Nun, treten Sie einen neuen Job an. Sie arbeiten für einen großen Online-Medien-Konzern und sind der neue Leiter der Abteilung "User Experience" und verantwortlich für den Bereich "Digital opinions and algorithmic fairness". Ihre Aufgabe ist es sicherzustellen
+Versuchen Sie sich vorzustellen, was Sie in 5 Jahren beruflich tun werden. Sie haben Ihr Studium der Kommunikationswissenschaft schon eine ganze Weile hinter sich und haben Ihre ersten beruflichen Erfahrungen in ihrem Einstiegsjob gesammelt. Nun, treten Sie einen neuen Job an. Sie arbeiten für einen großen Online-Medien-Konzern und sind der neue Leiter der Abteilung "User Experience" und verantwortlich für den Bereich "Digital opinions and algorithmic fairness". Ihre Aufgabe ist es sicherzustellen, dass ihr Unternehmen nicht ins Kreuzfeuer der Medien gerät, falls sie unfaire Algorithmen einsetzen.
 
- - Leiter Abteilung User Experience - Digital Opinions/Algorithmic Fairness
+Zum Hintergrund: Um der Flut an Informationen Herr zu werden, werden auf den Webseiten ihres Unternehmens Inhalte personalisiert. Das bedeutet, dass jeder Nutzer eine andere Perspektive auf Ihre Webseite hat. Hierfür wird ein Filteralgorithmus oder ein Empfehlungssystem (engl. recommender system) eingesetzt. Dieser Algorithmus tritt eine Vorauswahl, welcher Nutzer welche Inhalte zu welchem Zeitpunkt sehen kann.
 
- - Verschiedene Wege der Informationsaufbereitung
-    - Filteralgorithmus (Recommender System) empfhiehlt Inhalte für jeden Nutzer individualisiert 
-    - Sorgen: Filterblase, Polarisierung, Beeinflussung von Demokratie
-    - Manuelle Steuerung (Fairness nach Kriterium?)
+Die Sorgen, die die Öffentlichkeit diesbezüglich hat, ist dass durch diesen Algorithmus eine Filterblase entstehen kann. Eine Filterblase bedeutet, dass Nutzer nur noch Inhalte sehen, die ihrem Meinungsbild entsprechen. Durch die Interaktion der Nutzer mit Inhalten, die dem Nutzer gefallen, wählt der Algorithmus ähnliche Inhalte aus, die den selben Kriterien genügen wie die Inhalte, die dem Nutzer bereits gefallen. Der Nutzer befindet sich ein einer Blase aus Inhalten, die ihm gefallen, der Filterblase. Die Sorge ist, dass durch Filterblasen indirekt Einfluss auf die Demokratie ausgeübt wird. Divergierende Filterblasen können zur Polarisierung beitragen. 
 
- - Wählen Sie eine Strategie der Informationsaufbereitung
-    - Budget 1 Mio Euro
-    - Präsentieren Sie Ihre Entscheidung dem Board of Directors Germany
+Um Filterblasen zu verhindern, verfügen Empfehlungsalgorithmen über Konfigurationsparameter. Der Entwickler kann einstellen, wie viel ähnliche Inhalte und wie viel völlig neue Inhalte dem Nutzer gezeigt werden (engl. serendipity).  Doch wie soll der Algorithmus konfiguriert werden? Soll händisch gesteuert werden oder wählt der Algorithmus aufgrund von Evaluationsmetriken automatisch eine Strategie? Wie wird diese Einstellung in der Bevölkerung wahrgenommen.
 
+Sie, als Leiter der Abteilung "User Experience", sollen eine Strategie für die Informationsaufbereitung entwickeln und bekommen für Konzeption und Umsetzung ein Budget von 1 Mio. Euro. Für die finale Abnahme sollen Sie ihr Konzept dem Board of Directors präsentieren.
 
 Wie gehen Sie vor?
+
+
 
 Begründung der Vorgehensweise
 - Warum dieser Weg?

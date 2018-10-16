@@ -24,7 +24,10 @@ Die zentrale Idee hinter diesem Buch ist die Vereinheitlichung des Forschungspro
 
 *Dieses Buch befindet sich zur Zeit noch in Arbeit.* Es ensteht parallel zu Veranstaltungen, die an der RWTH Aachen angeboten werden und wird somit erst Stück für Stück mit Leben befüllt. Das bedeutet auch, dass dieses Buch keinen Anspruch auf Vollständigkeit oder Korrektheit erhebt. 
 
-Sie dürfen an diesem Buch mitwirken! 
+**Sie dürfen an diesem Buch mitwirken!** Oben im Menü taucht neben dem Download-Button ein Edit-Button auf. Wenn Sie diesem Link folgen, werden Sie auf das Github-Repository dieses Buchs weitergeleitet. Hier können sie Korrekturen oder Änderungsvorschläge einreichen, und somit dazu beitragen, dass dieses Buch "perfekt" wird. Wenn Sie eine Änderung einreichen, stimmen Sie dabei zu, dass die Änderung in der Creative-Commons Lizenz veröffentlich wird. Sie wird also auch ohne ihre Attribuierung geführt.
 
+
+## Danksagung {-}
+Hier wird eine Liste der freiweiligen Helfer auftauchen, die mitgeholfen haben dieses Buch zu vervollständigen.
 
 
