@@ -1,0 +1,326 @@
+
+
+
+## Prozess: Wissenschaftlichen Erkenntnisprozess
+
+
+1. Theorie-geleitetes Vorgehen
+1. Struktur des Prozesses
+1. Sammeln von empirischen Daten
+1. Aufbereiten von empirischen Daten
+1. Analysieren von empirischen Daten
+1. Dokumentation des Prozesses
+ 
+
+Gründe: Schwierigkeiten menschlicher Wahrnehmung
+1. Kein "Sinn" für objektive Wahrheit
+1. Menschliche Sinne dienen dem Überleben
+
+Ziel: Reduktion von Verzerrung, Objektivierung 
+
+### Exkurs: visuelle Wahrnehmung
+
+ Warhnehmung ist "Computation"
+- Visuelle Informationen sind mehrdeutig
+- für jedes 2-Dimensionale-Abbild gibt es unendliche viele mögliche Urbilder
+- Bidirektionaler Prozess
+  - Bottom-Up (Sensorik zum Perzept)
+  - Top-Down (Perzept zur Sensorik)
+
+- Berechnung und Steuerung von Wahrnehmung
+  ![test](figs/pinker-vision.png)
+  .figurecaption[ Aus (Pinker, 1999) ]
+
+.footnote[Pinker, S. (1999). How the mind works. *Annals of the New York Academy of Sciences*, 882(1), 119-127.]
+
+Grenzen der visuellen Wahrnehmung
+
+Die Fovea:
+- kleiner Bereich mit hoher Zapfendichte
+- Schärfster Bereich des Sehens
+- 0.5  2° des Sichtfeldes
+
+Nur hier sieht man farbig und scharf
+
+Blinder Fleck am Sehnerv
+
+![](figs/eye.png)
+.figurecaption[ Quelle: Wikipedia ]
+
+
+![](figs/fovea-example.png)
+
+
+
+## Biases und Verzerrungen
+
+Grenzen gelten für..
+- sämtliche Sinne (Sehen, Hören, Fühlen, Riechen, Schmecken, Propriozeption, etc.)
+- Aufmerksamkeit (geteilte Aufmerksamkeit, Attention inhibition, etc.)
+- Erinnerung (Interferenz, Ebbinghaussche Listen, etc.)
+
+Warum gibt es überhaupt Grenzen?
+
+
+
+
+ 4 Gründe für Verzerrungen
+
+- Zu viele Information
+- Was soll erinnert werden?
+- Nicht genügend Bedeutung
+- Schnelles Handeln erforderlich
+
+
+![](figs/biases.png)
+[-Link-](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+
+>Ziel von Forschung ist es, allgemeingültige Aussagen und Theorien zu ermöglichen, die jenseits der subjektiven Meinung oder Erfahrung Einzelner Gültigkeit haben.
+
+Darum Methoden!
+
+Auch Wissenschaftler sind nicht *gefeit* vor:
+- falschem Alltagswissen
+- Halbwahrheiten
+- ungeprüftem Wissen
+- überholtem Wissen
+
+Fehler fallen nicht auf:
+- Feste Überzeugung führt zur Erfüllung (self-fulfilling prophecy)
+- Kognitive Dissonanz (selektive Erinnerung, preference-based information processing)
+
+
+Trifft insbesondere Kommunikationswissenschaft:
+- schneller Medienwandel
+- viele verschiedene Kontexte
+- falsche Übertragung
+- unterschiedlichste Nutzergruppen
+
+
+## Empirische Daten und Prozesse
+
+
+1. Sammeln von empirischen Daten
+2. Aufbereiten von empirischen Daten
+3. Analysieren von empirischen Daten
+4. Dokumentation des Prozesses
+
+### Unterschied zwischen qualitativ und quantitativ?
+
+Qualitative Daten, quantitative Daten?
+ 
+Qualitativee Methoden, quantitative Methoden?
+
+
+#### Qualitative Daten
+
+Beispiele:
+- Videoaufzeichnungen
+- Beobachtungen
+- Audioaufzeichnungen
+- Texte
+- Emailinhalte
+- Freitextfelder in Fragebögen
+- etc. 
+
+Daten charakterisieren den Gegenstand ohne ihn zu messen. 
+
+Fokus auf Attribute und Eigenschaften
+
+**Forschungsinteresse:** Qualität dieser Charakterisierung
+
+
+#### Quantitative Daten
+
+Beispiele:
+- Sensorische Messwerte 
+- Numerische Angaben in einem Fragebogen
+- Räusperhäufigkeit in einem Interview
+- Anzahl Fehler beim Textlesen
+- Emails
+- psychometrische Skalen
+- etc. 
+
+Daten vermessen den Gegenstand ohne ihn zu charakterisieren.
+- Häufigkeit, Länge, Dauer, Lage, Höhe, Gewicht
+
+**Forschungsinteresse:** Numerische (quantitative) Zusammenhänge in den Daten entdecken oder nachweisen.
+
+
+
+#### Qualitative Methoden
+1. .orange[**Sammeln**] von empirischen Daten
+2. .orange[**Aufbereiten**] von empirischen Daten
+3. .orange[**Analysieren**] von empirischen Daten
+4. .orange[**Dokumentation**] des Prozesses
+
+Beispiele:
+- Tiefeninterview, leitfadengestützes Interview, Fokusgruppen
+- Card-Sorting, Walkthrough, User-Test
+- Audio- oder Video-Transkription
+- Inhaltsanalyse, Medienanalyse, Diskursanalyse
+- Grounded Theory, etc.
+
+
+Fokussieren den nicht quantitativen Erkenntnisgewinn, sondern
+- Gründe, Ursachen, Zusammenhänge
+- Hypothesengenerierung
+- Theorieentwicklung
+
+#### Quantitative Methoden
+1. .orange[**Sammeln**] von empirischen Daten
+2. .orange[**Aufbereiten**] von empirischen Daten
+3. .orange[**Analysieren**] von empirischen Daten
+4. .orange[**Dokumentation**] des Prozesses
+
+
+Beispiele:
+- Fragebogen, Experimente, Open-Data-APIs, etc.
+- Explorative Statistik, Social-Network-Analysis
+- Video-Kodierung, Skalen-Berechnungen, 
+- Statistische Methoden, deskriptive Statistik, Inferenzstatistik
+
+
+
+Fokussieren den quantitativen Erkenntnisgewinn:
+- Modellierung und Theorieprüfung
+- Beschreibung
+- Hypothesenvalidierung
+- Vorhersage
+
+#### 4 Felder Schema
+Nach Datum und Methode 
+
+
+                      |  Qualitative Daten | Quantitative Daten
+----------------------|--------------------|--------------------
+Qualitative Methode   |  Tiefeninterview, Fokusgruppe   | Einzelfallanalyse im Fragebogen
+Quantitative Methode  |  Text-Mining       | Inferenzstatistische Analyse eines Fragebogens
+
+
+
+### Anforderungen an Methoden
+
+In der Wissenschaft existiert ein hoher Qualitätsanspruch an Ergebnisse. Deshalb sollen Methoden folgende Eigenschaften haben:
+  - Generalisierbarkeit
+  - Anwendbarkeit
+  - Robustheit
+  - Ökonomie
+
+Ziel: zuverlässige Übertragung von Realität auf ein Modell 
+
+### Was ist ein Modell?
+
+Wie man eine Brücke baut
+![](figs/bridges.png)
+
+Modell-Begriff
+
+
+![](figs/modelimage.png)
+
+![](figs/modelbridge.png)
+
+Beschränktes Abbild der Wirklichkeit
+
+- Pragmatismus
+  - Modellzweck, Modellkontext
+- Attributen-Abbildung
+  - Verkürzung
+  - Präterierte Attribute
+  - Abundante Attribute
+- Kontrastierung
+  - Hervorhebung von Modelleigenschaften
+
+### Forschungsfrage und Hypothese
+Von der Forschungsfrage zum Modell.
+
+#### Wie wählt man eine Forschungsfrage?
+
+- Literaturrecherche relevanter Ergebnisse
+- Modelle und Theorien
+- Identifikation von Unbekanntem in der Literatur
+- Quantifizierung von qualitativen Ergebnissen
+- Verknüpfung von Modellen
+- Übersetzung von Beobachtung in Forschungsfragen
+
+#### Wie wählt man eine Hypothese?
+
+Gerichtete wissenschaftliche Vermutung
+- widerspruchsfreie, unbewiesene Behauptung
+- messbare Faktoren
+- aus der Literatur abgeleitet
+- angelehnt an bestehende Modelle und Theorien
+
+
+### Faktoren-Raum
+
+#### Was ist das?
+- Identifikation der beteiligten Größen der Forschungsfrage
+- Hierarchische Dekomposition des Problems 
+- Vorbereitung zur Selektion (Occam's Razor)
+  - Messbarkeit
+  - Verwandte Theorien und Modelle
+
+#### Beispiel Forschungsfrage:
+
+> Welchen Einfluss hat Facebook auf Demokratie?
+>
+
+
+Faktoren-Raum
+
+.img-50[ ![](figs/faktorenRaum.png)] 
+
+.footnote[Abbildung erstellt mit draw.io]
+
+
+### Methoden und Modell
+  
+Übertragung von Realität auf Modell (und zurück):
+  - Faktorenraum 
+  - Faktorenbeziehungen
+  - Messbare Variablen und Faktoren
+  - ggfs. experimentelle Variation:
+    - Gezielte Variation der Faktoren zur Messung der Auswirkung
+
+
+Gute Konzeption ist **obligatorisch!**
+
+Methoden und Modelle sind disziplinenspezifisch.
+
+## Theorie und Empirie
+
+1. Theorie
+2. Forschungsfrage
+3. Forschungshypothese und Faktorenraum
+4. Präzisierung der Hypothese
+5. Konzeption der Untersuchung
+6. Durchführung
+7. Datenanalyse
+8. Interpretation der Daten
+9. Implikationen für die Theorie (repeat)
+
+
+
+
+
+# TODO
+3. Empirie und Theorie
+4. Digitale Methoden der Erhebung
+
+
+
+4. Forschungsintstrument entwickeln, Messtheorie, Skalenniveaus 
+5. Deskriptive Statistik, zentrale Tendenz und Streuung 
+6. Verteilungen, Stichproben und Wahrscheinlichkeit 
+7. Inferenz, Hypothesen, Fehler 1. und 2. Art, t-Test 
+8. Alpha-Fehler Kummulierung, ANOVA, MANOVA, Bonferroni 
+9. Zusammenhänge, Korrelation, lineare Regression 
+10. Skalen, Likert-Skalen, Reliabilität und Faktoren-Analyse 
+11. Explorative Statistik, parametrische und nicht-parametrische Verfahren 
+12. Conjoint-Verfahren, Cluster-Analyse 
+13. Effekt-Stärken und Poweranalyse 
+
+
+

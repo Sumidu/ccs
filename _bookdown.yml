@@ -1,5 +1,20 @@
 book_filename: "ccs"
 language:
+  label:
+    fig: 'Abbildung '
+    tab: 'Tabelle '
+    eq: 'Gleichung '
+    thm: 'Theorem '
+    lem: 'Lemma '
+    cor: 'Korollar '
+    prp: 'Proposition '
+    cnj: 'Conjecture '
+    def: 'Definition '
+    exm: 'Beispiel '
+    exr: 'Übung '
+    proof: 'Beweis. '
+    remark: 'Anmerkung. '
+    solution: 'Lösung. '
   ui:
     chapter_name: "Kapitel "
 delete_merged_file: true

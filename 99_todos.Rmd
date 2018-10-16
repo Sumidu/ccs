@@ -1,12 +1,8 @@
-# Datenvisualisierung
-
-# Text-Mining
-
-# Social-Media Mining
-
-# Agenten-basierte Modellierung
-
-# Conjoint
-
-# Strukturgleichungsmodellierung
+# Andere LV
+1. Datenvisualisierung
+2. Text-Mining
+3. Social-Media Mining
+4. Agenten-basierte Modellierung
+5. Conjoint
+6. Strukturgleichungsmodellierung
 
