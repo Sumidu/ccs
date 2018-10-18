@@ -1,0 +1,15 @@
+
+4. Digitale Methoden der Erhebung
+
+
+
+4. Forschungsintstrument entwickeln, Messtheorie, Skalenniveaus
+5. Deskriptive Statistik, zentrale Tendenz und Streuung
+6. Verteilungen, Stichproben und Wahrscheinlichkeit
+7. Inferenz, Hypothesen, Fehler 1. und 2. Art, t-Test
+8. Alpha-Fehler Kummulierung, ANOVA, MANOVA, Bonferroni
+9. Zusammenhänge, Korrelation, lineare Regression
+10. Skalen, Likert-Skalen, Reliabilität und Faktoren-Analyse
+11. Explorative Statistik, parametrische und nicht-parametrische Verfahren
+12. Conjoint-Verfahren, Cluster-Analyse
+13. Effekt-Stärken und Poweranalyse

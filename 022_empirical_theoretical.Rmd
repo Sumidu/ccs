@@ -1,0 +1,223 @@
+## Wissenschaftstheorie, Theorie und Empirie
+
+Allgemeine Wissenschaftstheorie 
+Teilgebiet der Philosophie (engl. philosophy of science)
+- Welche Möglichkeiten und Grenzen hat der menschliche Erkenntnisprozess?
+- Gesellschaftliche Funktion von Wissenschaft
+
+
+Fachspezifische Wissenschaftstheorie 
+Fachspezifisch z.B. für Kommunikationswissenschaft (engl. philosophy of communication science)
+
+- Ontologie (Was ist Gegenstand?)
+  - Vorannahmen über den Untersuchungsgegenstand
+  - z.B. Realismus vs. Idealismus
+  - z.B. Kausalitätsprinzip vs. Chaos
+  
+- Axiologie
+  - Werte und Wissenschaftsethik
+  
+- Epistemologie
+  - Was ist Theorie?
+  - Was ist wahr?
+  - Methodologie
+
+
+## Grundlagen empirischer Sozialforschung
+###Erkenntniszusammenhang
+
+Anlass, der zu dem Forschungsprozess führt 
+Ideen, Gespräche, Exploration, die das Problem strukturieren
+
+Drei Arten:
+- Ein empirisches Problem (es gibt noch keine Antwort)
+- Ein theoretisches Problem (es gibt empirische Antworten, die aber zu unterschiedlichen Ergebnissen kommen)
+- Ein Auftrag Dritter
+
+
+### Begründungszusammenhang
+All jene Schritte, mit deren Hilfe das Problem untersucht werden soll
+- Welche Untersuchungen liegen bereits vor? 
+- Welche Theorien sind einschlägig, die heranziehbar sind?
+- Welche Teile des Problems werden untersucht?
+- Welche Hypothesen sind aufzustellen?
+- Welche Untersuchungsform und Methode soll angewandt werden?
+- Was soll „gemessen“ werden, was soll variiert werden?
+- Wer soll untersucht werden?
+- Wie soll ausgewertet werden?
+
+
+### Verwertungszusammenhang
+- Welche Effekte haben die Ergebnisse auf soziale Strukturen? (Gruppen, Gesellschaften etc.)
+- Wie allgemeingültig sind die Befunde?
+- Form der Darstellung (Zielgruppe)
+- Die Berichtspflicht (Publikation): Die Sichtbarmachung des wissenschaftlichen Fortschritts
+
+
+### Erkenntnis-, Begründungs- und Verwertungszusammenhang
+- bilden zusammen den forschungslogischen Begründungsrahmen bei empirisch-experimentellen Verfahren.
+- Wann immer der theoretische Teil der Untersuchung unklar ist, kann das Konzept und das Ergebnis nicht eindeutig sein.
+- Die saubere und kontrollierbare Konzeptualisierung einer Studie ist ein „Must“ 
+  - sie steuert alle Entscheidungen über Methode, Stichprobe, Auswertung und bedingt die Verwertung der Ergebnisse.
+  
+  
+  
+## Beispiel: Das Leib-Seele Problem
+Zwei Extrema:
+1. Alles ist Materie:
+
+  - Menschliches Verhalten und Erleben ist also in seiner Gänze zurückführbar auf Gehirnzustände und Gehirnprozesse.
+
+2. Alles ist Seele oder Geist:
+
+  - Was wir wahrnehmen und mental verarbeiten ist nicht die letzte Wirklichkeit. Wir schaffen uns die Welt in unserer Vorstellung.
+  
+  
+Entweder Materie und Geist interagieren, oder mentale und physische Zustände existieren parallel – koordiniert oder unabhängig voneinander
+
+Mögliche Herangehensweise:
+  - Bezüge zwischen physiologischen Prozessen auf der einen Seite und Erleben und Verhalten auf der anderen herstellen
+  
+  
+  
+  
+## Induktion vs. Deduktion
+Wie kann man Gesetzmäßigkeiten erkennen?
+1. Situationen beobachten und dann mögliche Erklärungen finden => **induktiv**
+  - Vom Teil auf das Ganze
+  - Vom Experiment zur Theorie
+  
+2. Mögliche (vorläufige) Erklärung (Hypothese) im Kopf haben und dann prüfen => **deduktiv**
+  - Vom Ganzen auf das Teil
+  - Von der Theorie zum Experiment
+  
+Wissenschaftliche Forschung braucht und benutzt beides!
+  
+
+### Wirklichkeit als Konstruktion
+Annahmen
+- es gibt keine unabhängig von uns existierende Welt
+- jeder Mensch konstruiert sich seine eigene Welt
+- Aufgabe der Wissenschaft ist es, diese Welt zu entdecken
+- Forschung ist eher qualitativ ausgerichtet
+- steht in starkem Widerspruch zu den Grundannahmen des Positivismus
+
+### Positivismus (oder Empirismus)
+- es gibt eine einheitliche, reale Welt, in der die Ereignisse, die für die Kommunikationswissenschaft interessant sind, stattfinden.
+
+- Individuum ist ein Teil dieser realen Welt, genauso wie Gedächtnisprozesse, Emotionen und Gedanken; alle diese Vorgänge haben überdauernde Eigenschaften
+
+- Wissenschaft erzeugt experimentelle Situationen, in denen sich psychologische Prozesse offenbaren; dies ermöglicht, diese Prozesse zu modellieren
+
+- die Welt ist ein Gefüge von messbaren Variablen, die miteinander in gesetzmäßiger Weise interagieren können
+
+- Modelle (mathematische Formulierungen) sollen zeigen, wie die Variablen zusammenwirken, insbesondere Ursache-Wirkungs-Beziehung
+
+- Forschung testet Hypothesen über die Zusammenwirkung von Variablen und erstellt Theorien, die nach und nach zu wissenschaftlichen Gesetzmäßigkeiten werden
+
+### Kritischer Reationalismus
+
+Gegenposition zum Positivismus (Karl Popper)
+- Hypothesen lassen sich .red[nicht] durch *induktive* Beobachtung allein prüfen
+  - Beispielhypothese: Es gibt nur weisse Schwäne.
+- Theorie benötigt den Deduktionsschluß im Verstand (ratio)
+
+> Vorläufige Bestätigung und kritische Prüfung!
+
+
+Falsifikationsprinzip
+
+Ich kann durch Empirie nur **beweisen**, dass etwas nicht gilt.
+- z.B. einen schwarzen Schwan sehen.
+
+**Zwei mögliche Zustände einer Theorie**:
+- vorläufig bestätigt oder widerlegt
+
+
+### Spezialprobleme der empirischen Sozialwissenschaften
+- Haben viele Denkansätze Ansätze aus den Naturwissenschaften übernommen 
+  - Beobachtbarkeit, 
+  - Wiederholbarkeit, etc.
+  
+- Es gibt aber Besonderheiten im Gegenstand der Sozialwissenschaften zu beachten, z.B.:
+  - latente Variable
+  - Verhältnis zwischen Forscher und Gegenstand
+
+
+#### Latente Variablen
+
+Die latente Variable ist ein Konstrukt oder Faktor.
+  - Beispiele: Intelligenz, Gedächtnis, Emotionen, etc.
+
+Keine tatsächliche Entität, nicht wirklich "greifbar"
+
+Zwei  Formen der latenten Variable
+- formative Messung: Wie man die latente Variable misst, bestimmt ihren Inhalt. Z.B. "Intelligenz ist das, was der Intelligenztest misst"
+- reflektive Messung: sozialwissenschaftliche Tests und empirische Untersuchungsformen als Indikatoren für etwas "Dahinterliegendes"
+
+#### Verhältnis Forscher – Gegenstand
+
+Früher (naive Vorstellung)
+Forscher waren oft auch Probanden für ihre Forschung, z.B. zu Denk- und Gedächtnisprozessen
+
+Prinzipielle Austauschbarkeit der Rollen von Forscher und Erforschten möglich
+
+Modern (kritischer Rationalismus)
+Probanden werden zu Forschern und untersuchen den Versuchsleiter 
+- "Was könnte der von mir wollen?"
+
+Erwartungen auf beiden Seiten (Forscher und Proband) können Verhalten und Erleben stark beeinflussen
+
+### Woher kommen Theorien
+Intuition
+- Spontanität
+- hohes Maß an Vorarbeit erforderlich, z.B. intentsives Literaturstudium
+- grundlegendes Verständnis erhöht die Chance, dass ein neuer Eindruck zu einer guten Idee führt
+
+Induktion
+- von etwas Besonderem auf etwas Allgemeines, von Daten auf Theorien schließen
+- je besser das Grundwissen fundiert ist, desto fundierter sind auch die abgeleitetenTheorien
+
+Metaphern
+- Mechanismus oder Modell aus anderem – oft technischem – Bereich wird als Analogie für sozialwissenschaftliche Prozesse genutzt
+- Beispiel: Computer als Methapher in der kognitiven Psychologie (Speichermodule oder Programme als Analogien zu Arbeitsspeicher oder Gedächtnisvorgängen)
+
+
+Grounded Theory (Glaser und Strass, 2005/1967)
+- Theorien sollten immer auf Daten gegründet sein
+- sukzessives Kodieren soll zu immer abstrakteren Kategorien führen, deren systematische Verbindung dann eineTheorie liefert
+  
+  
+### Begriffsklärung
+
+Methode
+**Ein** Verfahren für den wissenschaftlichen Erkenntnisgewinn.
+
+Methodik
+Die Beschreibung der (mehreren) eingesetzten Verfahren im Zusammenhang einer Forschungsfrage. Beschreibung von "was man tut" oder "was man kann".
+
+Methodologie
+Wissenschaftliche Auseinandersetzung mit Methoden und ihrem Einsatzgebiet, ihrer Grenzen und ihrer Auswahl. 
+
+=> Metawissenschaft.   
+
+## Übersicht über empirische Methoden
+
+Sammeln von Daten - Erhebungsmethoden
+Hier quantitativ (z.B. Fragebogenstudie oder Experiment). Dazu gehört Wissen über:
+  - Testtheorie, Stichprobenziehung, Survey-Methodik, Skalen, etc.
+  
+Auswerten von Daten - Auswertungsmethoden
+Deskriptive, explorative und Inferenzstatistik 
+- Unterscheidung nach Methodenzweck
+  - Beschreiben, Entdecken und Prüfen
+- Strukturentdeckende Verfahren vs. strukturprüfende Verfahren
+
+Viele (nicht alle) Verfahren können mit allen drei Zwecken eingesetzt werden.
+- Beispiel: Korrelationsanalyse
+
+
+
+
+
+
